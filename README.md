@@ -11,9 +11,9 @@ The Medallion Architecture guides the data transformation, where the raw data fl
 3. **Gold Layer** - Analytics-ready data
 
 
-![Medallion architecture] (https://github.com/niranjann16/Netflix_Azure_Data_Engineering_Project/blob/main/Project_screenshot/Architecture1.jpg)
+![Medallion architecture](https://github.com/niranjann16/Netflix_Azure_Data_Engineering_Project/blob/main/Project_screenshot/Architecture1.jpg)
 
-![architecture] (https://github.com/niranjann16/Netflix_Azure_Data_Engineering_Project/blob/main/Project_screenshot/Architecture.png)
+![Architecture](https://github.com/niranjann16/Netflix_Azure_Data_Engineering_Project/blob/main/Project_screenshot/Architecture.png)
 
 ---
 
@@ -60,7 +60,7 @@ The Gold layer is the final output—cleaned and enriched data that can be used 
 
 This pipeline fetches data from GitHub and loads it into the Bronze layer Azure Data in Lake Gen2.
 
-![ingestion pipeline] (https://github.com/niranjann16/Netflix_Azure_Data_Engineering_Project/blob/main/Project_screenshot/Incremental%20DataPipeline.png)
+![Incremental DataPipeline](https://github.com/niranjann16/Netflix_Azure_Data_Engineering_Project/blob/main/Project_screenshot/Incremental%20DataPipeline.png)
 
 ### **Databricks Workflow**
 
