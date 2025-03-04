@@ -11,7 +11,7 @@ The Medallion Architecture guides the data transformation, where the raw data fl
 3. **Gold Layer** - Analytics-ready data
 
 
-![Medallion architecture] (Project_screenshot/Architecture1.jpg)
+![Medallion architecture] (https://github.com/niranjann16/Netflix_Azure_Data_Engineering_Project/blob/main/Project_screenshot/Architecture1.jpg)
 
 ![architecture] (https://github.com/niranjann16/Netflix_Azure_Data_Engineering_Project/blob/main/Project_screenshot/Architecture.png)
 
